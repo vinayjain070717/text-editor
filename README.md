@@ -41,9 +41,9 @@
 
 In Windows:
 ```
-py vinay-editor.py
+py vinay-text-editor.py
 ```
 In Linux:
 ```
-python vinay-editor.py
+python vinay-text-editor.py
 ```
